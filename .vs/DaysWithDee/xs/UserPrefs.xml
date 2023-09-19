@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A184FEB5-EBA8-40CE-8E1A-65B5D28603E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DaysWithDee/ProjectSite/README.md">
+    <Files>
+      <File FileName="DaysWithDee/HTML/index.html" Line="11" Column="5" />
+      <File FileName="DaysWithDee/CSS/style.css" Line="114" Column="6" />
+      <File FileName="DaysWithDee/ProjectSite/about.html" Line="14" Column="18" />
+      <File FileName="DaysWithDee/ProjectSite/projects-styles.css" Line="9" Column="1" />
+      <File FileName="DaysWithDee/ProjectSite/projects.html" Line="8" Column="8" />
+      <File FileName="DaysWithDee/ProjectSite/README.md" Line="2" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DaysWithDee" expanded="True">
+            <Node name="DaysWithDee" expanded="True">
+              <Node name="ProjectSite" expanded="True">
+                <Node name="README.md" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DaysWithDee FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
